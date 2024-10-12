@@ -1,5 +1,6 @@
 import streamlit as st
 import joblib
+import gdown
 
 # Link de download do Google Drive
 file_id = '13x0B8bXcr9deS1Utda_t43__vbM1sy7S'  # Substitua pelo ID real do seu arquivo
