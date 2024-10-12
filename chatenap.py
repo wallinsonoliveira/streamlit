@@ -4,7 +4,7 @@ import joblib
 
 # Título da página
 st.title("BootCamp Machine Learning em Projetos")
-st.subheader("Esse algoritmo adivinha quem escrever a frase a baixo com base nas transcrições do chat da turma")
+st.subheader("Esse algoritmo adivinha quem escrever a frase abaixo com base nas transcrições do chat da turma")
 st.text("Professores: Professores: Erick Muzart e Fernando Melo e Fernando Melo")
 st.text("Wallinson Oliveira Schutte")
 
