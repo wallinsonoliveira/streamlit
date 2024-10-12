@@ -3,7 +3,10 @@ import gdown
 import joblib
 
 # Título da página
-st.title("Alunos Enap - Chat")
+st.title("BootCamp Machine Learning em Projetos")
+st.subheader("Esse algoritmo adivinha quem escrever a frase a baixo com base nas transcrições do chat da turma")
+st.text("Professores: Professores: Erick Muzart e Fernando Melo e Fernando Melo")
+st.text("Wallinson Oliveira Schutte")
 
 # Link de download do Google Drive
 file_id = '13x0B8bXcr9deS1Utda_t43__vbM1sy7S'  # Substitua pelo ID real do seu arquivo
