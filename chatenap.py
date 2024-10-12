@@ -3,9 +3,9 @@ import gdown
 import joblib
 
 # Título da página
-st.title("BootCamp Machine Learning em Projetos")
+st.title("BootCamp Machine Learning em Projetos 2024")
 st.subheader("Esse algoritmo adivinha quem escreveu frase abaixo com base nas transcrições do chat da turma")
-st.text("Professores: Professores: Erick Muzart e Fernando Melo e Fernando Melo")
+#st.text("Professores: Erick Muzart e Fernando Melo e Fernando Melo")
 st.text("Wallinson Oliveira Schutte")
 
 # Link de download do Google Drive
